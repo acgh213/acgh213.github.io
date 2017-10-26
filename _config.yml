@@ -1,0 +1,8 @@
+title: acgh's blog
+description: stuck in space, still on earth
+google_analytics: UA-55346298-1
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
